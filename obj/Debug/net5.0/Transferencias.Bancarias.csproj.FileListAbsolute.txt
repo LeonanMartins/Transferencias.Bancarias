@@ -1,0 +1,16 @@
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\bin\Debug\net5.0\Transferencias.Bancarias.exe
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\bin\Debug\net5.0\Transferencias.Bancarias.deps.json
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\bin\Debug\net5.0\Transferencias.Bancarias.runtimeconfig.json
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\bin\Debug\net5.0\Transferencias.Bancarias.runtimeconfig.dev.json
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\bin\Debug\net5.0\Transferencias.Bancarias.dll
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\bin\Debug\net5.0\ref\Transferencias.Bancarias.dll
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\bin\Debug\net5.0\Transferencias.Bancarias.pdb
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\obj\Debug\net5.0\Transferencias.Bancarias.csprojAssemblyReference.cache
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\obj\Debug\net5.0\Transferencias.Bancarias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\obj\Debug\net5.0\Transferencias.Bancarias.AssemblyInfoInputs.cache
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\obj\Debug\net5.0\Transferencias.Bancarias.AssemblyInfo.cs
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\obj\Debug\net5.0\Transferencias.Bancarias.csproj.CoreCompileInputs.cache
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\obj\Debug\net5.0\Transferencias.Bancarias.dll
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\obj\Debug\net5.0\ref\Transferencias.Bancarias.dll
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\obj\Debug\net5.0\Transferencias.Bancarias.pdb
+D:\Programação\Dotnet\Rep\Transferencias.Bancarias\obj\Debug\net5.0\Transferencias.Bancarias.genruntimeconfig.cache
